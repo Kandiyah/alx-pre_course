@@ -1,2 +1,2 @@
 My first readme
-awesome!
+coding is fun
